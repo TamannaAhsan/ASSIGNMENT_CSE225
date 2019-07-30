@@ -5,7 +5,7 @@
 using namespace std;
 
 class Cricketer{
-public:
+private:
     int id;
     string name;
     int runArray[SIZE] ;

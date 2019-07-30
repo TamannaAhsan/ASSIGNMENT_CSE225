@@ -1,0 +1,105 @@
+ID: 1
+Name: Mahfuzur Rahman
+Average: 37.9
+Total: 379
+Maximum: 62
+Minimum: 2
+
+ID: 2
+Name: Kamal Hossain
+Average: 37.7
+Total: 377
+Maximum: 78
+Minimum: 0
+
+ID: 3
+Name: Salam Mahbub
+Average: 40.7
+Total: 407
+Maximum: 88
+Minimum: 0
+
+ID: 4
+Name: Farid Hossain
+Average: 38.7
+Total: 387
+Maximum: 87
+Minimum: 0
+
+ID: 5
+Name: Rubel Rahman
+Average: 23.4
+Total: 234
+Maximum: 42
+Minimum: 4
+
+ID: 6
+Name: Sazid Rahman
+Average: 31.9
+Total: 319
+Maximum: 61
+Minimum: 2
+
+ID: 7
+Name: Redwanul Karim
+Average: 45.8
+Total: 458
+Maximum: 102
+Minimum: 12
+
+ID: 8
+Name: Kalyan Roy
+Average: 52.7
+Total: 527
+Maximum: 100
+Minimum: 18
+
+ID: 9
+Name: Tahmid Abrar
+Average: 29.1
+Total: 291
+Maximum: 66
+Minimum: 2
+
+ID: 10
+Name: Imram Karim
+Average: 25.6
+Total: 256
+Maximum: 59
+Minimum: 4
+
+ID: 11
+Name: Rashed Khan
+Average: 26.3
+Total: 263
+Maximum: 57
+Minimum: 3
+
+ID: 12
+Name: Shabir Khan
+Average: 23.4
+Total: 234
+Maximum: 42
+Minimum: 4
+
+ID: 13
+Name: Zariff Ali
+Average: 33.6
+Total: 336
+Maximum: 100
+Minimum: 3
+
+ID: 14
+Name: Ifty Ali
+Average: 39.8
+Total: 398
+Maximum: 80
+Minimum: 4
+
+ID: 15
+Name: Sabic Islam
+Average: 48.2
+Total: 482
+Maximum: 87
+Minimum: 8
+
